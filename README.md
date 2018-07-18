@@ -16,3 +16,8 @@ At this time we only accept ERC20 tokens, but we're planning to integrate other 
 
 Thank you! 
 
+## List of currently listed tokens:
+
+* Ethereum (ETH)
+* Pangea Arbitration Token (XPAT)
+
